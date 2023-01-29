@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for visiting this website
 
-Template Name: UpConstruction
-Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a website made using html & css
+
+it is a static website on Tech Horizon,a Laptop company 
